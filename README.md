@@ -7,6 +7,7 @@ I'm a developer passionate about building efficient and scalable solutions.
 - **Frameworks & Tools:** Echo, Gin
 - **Blockchain:** Geth, Go-Ethereum
 - **APIs & Data:** OpenAPI, GORM
+- **Databases:** Redis, Redis TimeSeries, MySQL, PostgreSQL.
 
 ### **Java** - Enterprise applications and backend services
 - **Application Servers:** GlassFish, Payara
